@@ -1,1 +1,2 @@
-alert("Hello world")
+message  = "Hello world"
+alert(message)
